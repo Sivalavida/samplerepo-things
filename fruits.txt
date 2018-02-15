@@ -1,4 +1,8 @@
 apples
 berries
+<<<<<<< HEAD
 cherries
 apples
+=======
+cherries 
+>>>>>>> feature1
