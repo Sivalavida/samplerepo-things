@@ -4,4 +4,8 @@ rectangle
 square
 random
 random2
+<<<<<<< HEAD
 randomhalfway
+=======
+random3
+>>>>>>> shapes
